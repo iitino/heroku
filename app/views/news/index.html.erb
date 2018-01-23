@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8"/>
+  <title>News page</title>
+  <meta name="viewport" content="width = device - width, initial - scale = 1.0"/>
+  <%= javascript_include_tag "slick.min" %>
+  <%= javascript_include_tag "slide.js" %>
+  <%= stylesheet_link_tag "slick", :media => "all" %>
+  <%= stylesheet_link_tag "slick-theme", :media => "all" %>
+
+  <!-- <script src="js/scroll.js"></script> -->
+  <!-- <script type="text/javascript" src="js/scroll.js"></script> -->
+</head>
+
+<body class="news">
+<!-- コンテンツ -->
+<div class="contents">
+  <br><br>
+  <h3>災害・防災トップニュース</h3><br>
+
+  <div class="topslide">
+    <ul class="slider">
+      <li>
+        <div class="top_news">
+          <a href="#"><%= image_tag "news3.jpg" %></a>
+          <p>　各地災害情報の速報</p>
+        </div>
+      </li>
+      <li>
+        <div class="top_news">
+          <a href="#"><%= image_tag "news2.jpg" %></a>
+          <p>　最新寄付情報</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div class="search">
+
+  </div>
+
+  <br><br>
+
+
+  <div class="rss_news">
+
+    <section>
+      <h1>｢災害・防災｣に関するニュース</h1>
+      <%= image_tag "a.png", :height => '50px', :width => '50px' %>この辺にRSSでニュースリンク表示<br>
+      <%= image_tag "a.png", :height => '50px', :width => '50px' %>この辺にRSSでニュースリンク表示<br>
+    </section>
+
+    <section>
+      <h1>｢寄付｣に関するニュース</h1>
+      <%= image_tag "a.png", :height => '50px', :width => '50px' %>この辺にRSSでニュースリンク表示<br>
+      <%= image_tag "a.png", :height => '50px', :width => '50px' %>この辺にRSSでニュースリンク表示<br>
+    </section>
+  </div>
+</div>
+<div id="footer"></div>
+</body>
+</html>

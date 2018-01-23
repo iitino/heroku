@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>User:</strong>
+  <%= @stock.user %>
+</p>
+
+<p>
+  <strong>Product name:</strong>
+  <%= @stock.product_name %>
+</p>
+
+<p>
+  <strong>Limit date:</strong>
+  <%= @stock.limit_date %>
+</p>
+
+<p>
+  <strong>Stock zone:</strong>
+  <%= @stock.stock_zone %>
+</p>
+
+<p>
+  <strong>Count:</strong>
+  <%= @stock.count %>
+</p>
+
+<p>
+  <strong>Category:</strong>
+  <%= @stock.category %>
+</p>
+
+<p>
+  <strong>Mail sent at:</strong>
+  <%= @stock.mail_sent_at %>
+</p>
+
+<%= link_to 'Edit', edit_stock_path(@stock) %> |
+<%= link_to 'Back', stocks_path %>

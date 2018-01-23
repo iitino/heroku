@@ -1,0 +1,52 @@
+<%= form_with(model: stock, local: true) do |form| %>
+  <% if stock.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(stock.errors.count, "error") %> prohibited this stock from being saved:</h2>
+
+      <ul>
+      <% stock.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :user_id %>
+    <%= form.text_field :user_id, id: :stock_user_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :product_name %>
+    <%= form.text_field :product_name, id: :stock_product_name %>
+  </div>
+
+  <div class="field">
+    <%= form.label :limit_date %>
+    <%= form.date_select :limit_date, id: :stock_limit_date %>
+  </div>
+
+  <div class="field">
+    <%= form.label :stock_zone %>
+    <%= form.text_field :stock_zone, id: :stock_stock_zone %>
+  </div>
+
+  <div class="field">
+    <%= form.label :count %>
+    <%= form.text_field :count, id: :stock_count %>
+  </div>
+
+  <div class="field">
+    <%= form.label :category %>
+    <%= form.text_field :category, id: :stock_category %>
+  </div>
+
+  <div class="field">
+    <%= form.label :mail_sent_at %>
+    <%= form.datetime_select :mail_sent_at, id: :stock_mail_sent_at %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LimiRation</title>
+  <%= csrf_meta_tags %>
+
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  <%= stylesheet_link_tag "web_controller", :media => "all" %>
+  <%= javascript_include_tag "scroll" %>
+</head>
+
+<body>
+<ul id="menu">
+  <a href="../home/index">
+    <div class="logo">
+      <%= image_tag "logo.png", :height => "55px", :width => "150px" %>
+    </div>
+  </a>
+  <% if user_signed_in? %>
+  <li><%= link_to "ログアウト", destroy_user_session_path, method: :delete %></li>
+  <% else %>
+  <li><a href="../users/sign_in">ログイン</a></li>
+  <% end %>
+  <li><a href="#">ヘルプ</a></li>
+  <li><a href="../donate/index">寄付する</a></li>
+  <li><a href="../shop/index">おすすめ商品</a></li>
+  <li><a href="../stocks/index">マイページ</a></li>
+  <li><a href="../news/index">ニュース</a></li>
+  <li><a href="../home/index">ホーム</a></li>
+</ul>
+<%= yield %>
+
+<ul id="menu">
+  <a href="../home/index">
+    <div class="logo">
+      <%= image_tag "logo.png", :height => "55px", :width => "150px" %>
+    </div>
+  </a>
+</ul>
+</body>
+</html>
