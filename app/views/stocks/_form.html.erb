@@ -12,9 +12,9 @@
   <% end %>
 
   <div class="field">
-    <%= form.label :user_id %>
-    <%= form.text_field :user_id, id: :stock_user_id %>
+    <%= form.hidden_field :user_id, :value => current_user.id %>
   </div>
+
 
   <div class="field">
     <%= form.label :product_name %>
@@ -39,11 +39,6 @@
   <div class="field">
     <%= form.label :category %>
     <%= form.text_field :category, id: :stock_category %>
-  </div>
-
-  <div class="field">
-    <%= form.label :mail_sent_at %>
-    <%= form.datetime_select :mail_sent_at, id: :stock_mail_sent_at %>
   </div>
 
   <div class="actions">

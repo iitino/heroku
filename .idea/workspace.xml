@@ -2,95 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c05b6210-815c-4733-9c4d-3ca2e8bb4336" name="デフォルト" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/a.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ajax-loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/back.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/donate.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logaster_No_1_small_size_201x69_pixels_(PNG)/1_Primary_logo_on_transparent_201x69.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logaster_No_1_small_size_201x69_pixels_(PNG)/2_Flat_logo_on_transparent_201x69.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logaster_No_1_small_size_201x69_pixels_(PNG)/3_White_logo_on_color1_201x69.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logaster_No_1_small_size_201x69_pixels_(PNG)/4_Grayscale_logo_on_transparent_201x69.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logaster_No_1_small_size_201x69_pixels_(PNG)/5_White_logo_on_black_201x69.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logaster_No_1_small_size_201x69_pixels_(PNG)/6_Primary_logo_on_color2_201x69.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/news1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/news2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/news3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/donate.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fade.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fonts/slick.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fonts/slick.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fonts/slick.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fonts/slick.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/help.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/home.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery-1.11.3.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.inview.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/news.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/scroll.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/shop.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/CONTRIBUTING.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/ISSUE_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/Makefile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/README.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/_gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/component.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick.jquery.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/ajax-loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/config.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/fonts/slick.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/fonts/slick.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/fonts/slick.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/fonts/slick.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/slick-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/slick-theme.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/slick-theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/slick.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/slick.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/slick.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/slick.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick-1.8.0/slick/slick.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slick.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/slide.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/tab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/web_controller.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/donate.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/help.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/news.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/shop.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/slick-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/slick.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/web_controller.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/donate/donating.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/donate/index.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/footer.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/header.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/news/index.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/shop/index.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/devise.ja.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/devise.views.ja.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/ja.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change beforePath="$PROJECT_DIR$/app/views/stocks/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/stocks/_form.html.erb" />
+      <change beforePath="$PROJECT_DIR$/app/views/stocks/index.html.erb" afterPath="$PROJECT_DIR$/app/views/stocks/index.html.erb" />
+      <change beforePath="$PROJECT_DIR$/app/views/stocks/show.html.erb" afterPath="$PROJECT_DIR$/app/views/stocks/show.html.erb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -139,11 +56,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stocks" pinned="false" current-in-tab="false">
-        <entry file="das://table:/bbfcb3eb/bdce2104-dbdf-4ca4-a44f-00f5af08a652/limiration_development.stocks">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
+      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/stocks/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/stocks/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -151,22 +79,19 @@
       <file leaf-file-name="stocks_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="68" column="44" lean-forward="true" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+            <state relative-caret-position="1173">
+              <caret line="69" column="37" lean-forward="false" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="_form.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/stocks/_form.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -201,31 +126,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/stocks/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-181">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="261">
+              <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/stocks/show.html.erb">
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="173">
+              <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users" pinned="false" current-in-tab="false">
-        <entry file="das://table:/bbfcb3eb/bdce2104-dbdf-4ca4-a44f-00f5af08a652/limiration_development.users">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -259,14 +175,16 @@
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/views/users/registrations/new.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20180118111423_create_stocks.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/models/stock.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
-        <option value="$PROJECT_DIR$/app/views/stocks/show.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20180123042853_create_stocks.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20180123044449_create_stocks.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/stocks_controller.rb" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/controllers/stocks_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/stocks/_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/stocks/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/stocks/index.html.erb" />
       </list>
     </option>
   </component>
@@ -331,6 +249,13 @@
               <item name="LimiRation" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LimiRation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LimiRation" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LimiRation" type="b2602c69:ProjectViewProjectNode" />
@@ -492,12 +417,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516636437943</updated>
       <workItem from="1516636439198" duration="10957000" />
-      <workItem from="1516677850222" duration="5578000" />
+      <workItem from="1516677850222" duration="7570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16535000" />
+    <option name="totallyTimeSpent" value="18527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -506,12 +431,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2284041" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.50732064" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45909092" sideWeight="0.5102489" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30151516" sideWeight="0.49121523" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45909092" sideWeight="0.49267936" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45909092" sideWeight="0.4897511" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -560,7 +485,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20180123012952_devise_create_users.rb" />
     <entry file="file://$PROJECT_DIR$/app/views/users/confirmations/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -762,23 +686,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/sessions/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/stocks/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -837,22 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/stocks/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/stocks/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-181">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20180123042853_create_stocks.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -893,22 +785,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="68" column="44" lean-forward="true" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
+          <first_editor relative-caret-position="391">
             <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="37" lean-forward="false" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/stocks/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/stocks/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/stocks/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/stocks/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
