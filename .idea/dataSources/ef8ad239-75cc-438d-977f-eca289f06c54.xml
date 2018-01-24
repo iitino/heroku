@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataSource name="LimiRation_development@127.0.0.1">
+<dataSource name="LimiRation_test@127.0.0.1">
   <database-model serializer="dbm" rdbms="MYSQL" format-version="4.7">
     <root id="1">
       <DefaultCasing>lower/lower</DefaultCasing>
@@ -20,11 +20,11 @@
       <Collation>utf8_general_ci</Collation>
     </schema>
     <schema id="7" parent="1" name="limiration_development">
-      <Current>1</Current>
-      <Visible>1</Visible>
       <Collation>utf8_general_ci</Collation>
     </schema>
     <schema id="8" parent="1" name="limiration_test">
+      <Current>1</Current>
+      <Visible>1</Visible>
       <Collation>utf8_general_ci</Collation>
     </schema>
     <schema id="9" parent="1" name="login">
@@ -936,16 +936,16 @@
       <Charset>utf8mb4</Charset>
       <DefaultForCharset>0</DefaultForCharset>
     </collation>
-    <table id="238" parent="7" name="ar_internal_metadata">
+    <table id="238" parent="8" name="ar_internal_metadata">
       <Engine>InnoDB</Engine>
     </table>
-    <table id="239" parent="7" name="schema_migrations">
+    <table id="239" parent="8" name="schema_migrations">
       <Engine>InnoDB</Engine>
     </table>
-    <table id="240" parent="7" name="stocks">
+    <table id="240" parent="8" name="stocks">
       <Engine>InnoDB</Engine>
     </table>
-    <table id="241" parent="7" name="users">
+    <table id="241" parent="8" name="users">
       <Engine>InnoDB</Engine>
     </table>
     <column id="242" parent="238" name="key">
@@ -1055,7 +1055,7 @@ created_at</ColNames>
     </key>
     <foreign-key id="262" parent="240" name="fk_rails_f4b3894c0d">
       <ColNames>user_id</ColNames>
-      <RefSchemaName>limiration_development</RefSchemaName>
+      <RefSchemaName>limiration_test</RefSchemaName>
       <RefTableName>users</RefTableName>
       <RefColNames>id</RefColNames>
     </foreign-key>

@@ -58,8 +58,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'coffee-script-source', '1.8.0'
 gem 'devise'
-# gem 'devise-i18n'
-# gem 'devise-i18n-views'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
+
+# 日本語化系
+gem 'rails-i18n'
+gem 'devise-i18n'
+gem 'devise-i18n-views'
